@@ -1,0 +1,385 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Ajan Kedi",
+      "orginalName": "Marnies Welt",
+      "description": "Bir özel ajan kedi Marnie ve arkadaşlarının bir araya gelip suçla mücadele ettiği bu hikayeye siz de davetlisiniz! Şımarık, masum ve tombul bir ev kedisi olan Marnie, Sunshine hanesinde şımartıldığı rahat bir hayat sürmektedir. Evinden hiç dışarı çıkmayan Marnie, gerçek dünyayı yalnızca severek seyrettiği dedektif suç TV şovlarında gördüğü kadarıyla bilir. Fakat bir anda işler değişir ve Marnie beklenmedik bir maceraya dahil olur.",
+      "time": 92,
+      "category": [
+        "orjinal-dil",
+        "animasyon",
+        "aile",
+        "komedi",
+        "macera",
+        "all"
+      ],
+      "director": "Christoph Lauenstein",
+      "senario": "Wolfgang Lauenstein",
+      "stars": [],
+      "year": 2022,
+      "country": "Almanya",
+      "imdbRating": 5.5,
+      "siteRating": 0,
+      "quality": "720",
+      "image": "https://img03.imgsinemalar.com/images/afis_buyuk/a/marnies-world-1668081761.jpg",
+      "fragman": "https://www.youtube.com/embed/skAw553EoT4",
+      "link": "https://www.youtube.com/embed/S1fmu7WdCyg",
+      "views": 52,
+      "comments": [
+        {
+          "id": "nYvT4zoe0thWu3-_YH69S",
+          "author": "Anonymous",
+          "comment": "yorum deneme 123",
+          "date": "Wed Dec 21 2022 16:05:16 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/771.png"
+    },
+    {
+      "id": 2,
+      "name": "Hacivat Karagöz Neden Öldürüldü",
+      "orginalName": "",
+      "description": "Karagöz ve Hacivat inşaatta çalışan iki ameledir. Her ikisinin de birbirlerini ve çevredekileri eğlendirme konusunda doğal bir yetenekleri vardır. İnsanlar tarafından ne kadar komik oldukları keşfedilince şehrin ileri gelenlerinin de katıldığı çeşitli toplantılara ve eğlencelere davet edilirler ve bir anda ünlü olurlar. Bu şöhret onların düşüşlerinin de başlangıç noktası olur.Olaylar 14. yy'da Bursa şehrinde geçer. Şehir, artık son dönemlerini yaşamakta olan Bizans-Hıristiyan İmparatorluğu'nun elitleri ile yeni gelen göçebe ve İslam topluluklarının beraber yaşadıkları bir yerdir. İktidar mücadeleleri ve şiddetin kıyasıya yaşandığı bir ortamda mizah da tehlikeli bir uğraştır aslında. Böyle bir ortamda Karagöz ve Hacivat'ın her gösterisi izleyen seçkinler için bir tehdit unsuru haline geldikçe bu durum komedyenler için de yavaş yavaş bir tehlike haline dönüşür. Karagöz ve Hacivat'ın komedi anlayışları sadece söze dayalı değil, aynı zamanda görsel ve fiziksel unsurlar da taşımaktadır. Konuşmaya başladıkları anda doğal yetenekleri ortaya çıkar ama sözlerini sakınmadıkları bu sınır tanımaz doğal yetenekleri, içerdiği hiciv ve alaydan dolayı insanlarda büyük bir rahatsızlık yaratır. Onlar klasik anlamdaki kahramanlar değillerdir artık. Ne etraflarındaki diğer ameleler tarafından, ne de kendilerini eğlencelerine davet eden seçkinler tarafından sevilirler.Kahramanlarımız filmin tüm hikayesinin geçtiği birkaç aylık süre boyunca rastladıkları herkesle eğlenme fırsatı bulurlar. Bu da onların trajik sonlarını hazırlar...",
+      "time": 135,
+      "category": [
+        "yerli",
+        "dram",
+        "komedi",
+        "tarih",
+        "all"
+      ],
+      "director": "Ezel Akay",
+      "senario": "Levent Kazak",
+      "stars": [
+        "Haluk Bilginer",
+        "Beyazıt Öztürk",
+        "Şebnem Dönmez"
+      ],
+      "year": 2006,
+      "country": "Türkiye",
+      "imdbRating": 7.5,
+      "siteRating": 0,
+      "quality": "1080",
+      "image": "https://img04.imgsinemalar.com/images/afis_buyuk/h/hacivat-karagoz-neden-olduruldu-1660915206.jpg",
+      "fragman": "https://www.youtube.com/embed/Lk_NZhy9dh4",
+      "link": "https://www.youtube.com/embed/FCGEkhmBEZw",
+      "views": 38,
+      "comments": [
+        {
+          "id": "Y2rxkdA1QMGFCdzBa6Hjl",
+          "author": "benan",
+          "comment": "test",
+          "date": "Wed Dec 21 2022 16:03:44 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png"
+    },
+    {
+      "id": 3,
+      "name": "Hababam Sınıfı",
+      "orginalName": "",
+      "description": "Özel Çamlıca Lisesi`ne yeni atanan müdür muavini Mahmut Hoca (nam-ı diğer Kel Mahmut) kopya çeken, okuldan kaçıp maçlara giden, hocalarla sürekli kafa bulan öğrencilerle dolu Hababam Sınıfı`nı ilginç ceza yöntemleriyle disiplin altına almaya çalışır. Fakat aynı zamanda öğrenci haylazlığı dışında ciddi olaylar da yaşanmaktadır.",
+      "time": 87,
+      "category": [
+        "yerli",
+        "dram",
+        "komedi",
+        "all"
+      ],
+      "director": "Ertem Eğilmez",
+      "senario": "Umur Bugay",
+      "stars": [
+        "Kemal Sunal",
+        "Münir Özkul",
+        "Halit Akçatepe",
+        "Adile Naşit",
+        "Tarık Akan"
+      ],
+      "year": 1975,
+      "country": "Türkiye",
+      "imdbRating": 9.2,
+      "siteRating": 0,
+      "quality": "720",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTU0ZGMxYjAtZmU0ZC00YTllLTk1OTktYmU2MjE4NTEzMmYxXkEyXkFqcGdeQXVyMTA1MzE1MjA4._V1_FMjpg_UX1000_.jpg",
+      "fragman": null,
+      "link": "https://www.youtube.com/embed/hf2-8MRPGu8",
+      "views": 139,
+      "comments": [
+        {
+          "id": "E_9ZERH_-f52I1E1bI16l",
+          "author": "benan",
+          "comment": "yorum denemesi",
+          "date": "Wed Dec 21 2022 15:47:41 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png"
+    },
+    {
+      "id": 4,
+      "name": "Vali",
+      "orginalName": "",
+      "description": "Karakteri, güçlü iradesi, sıradışı fikirleri ve enerjisiyle halkın güvenini kazanmış bir devlet adamı olan Vali Recep Yazıcıoğlu’nun, en son görev yaptığı Denizli ilinde başından geçen ilginç olayların anlatıldığı filmde; ucu uluslararası örgütlere ve gizli servislere dayanan esrarengiz olaylar beyazperdeye yansıyacak.",
+      "time": 110,
+      "category": [
+        "yerli",
+        "dram",
+        "tarih",
+        "all"
+      ],
+      "director": "Çağatay Tosun",
+      "senario": "Batur Emin Akyel",
+      "stars": [
+        "Erdal Beşikçioğlu",
+        "Uğur Polat",
+        "İsmail Hacıoğlu",
+        "Hakan Boyav",
+        "Şebnem Dönmez"
+      ],
+      "year": 2009,
+      "country": "Türkiye",
+      "imdbRating": 7.4,
+      "siteRating": 0,
+      "quality": "720",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/v/vali-1660915725.jpg",
+      "fragman": "https://www.youtube.com/embed/yXLIX3NYcd8",
+      "link": "https://www.youtube.com/embed/CwN7dJSF2xk",
+      "views": 86,
+      "comments": [
+        {
+          "id": "gA6HHS92fyo_84uadvfBM",
+          "author": "benan",
+          "comment": "test 123",
+          "date": "Wed Dec 21 2022 15:54:20 GMT+0300 (GMT+03:00)"
+        },
+        {
+          "id": "pdfrssPtCVHZBFdXx5naa",
+          "author": "benan",
+          "comment": "denem 123",
+          "date": "Wed Dec 21 2022 15:57:55 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png"
+    },
+    {
+      "id": 5,
+      "name": "Taksi",
+      "orginalName": "Taxi",
+      "description": "Karakteri, güçlü iradesi, sıradışı fikirleri ve enerjisiyle halkın güvenini kazanmış bir devlet adamı olan Vali Recep Yazıcıoğlu’nun, en son görev yaptığı Denizli ilinde başından geçen ilginç olayların anlatıldığı filmde; ucu uluslararası örgütlere ve gizli servislere dayanan esrarengiz olaylar beyazperdeye yansıyacak.",
+      "time": 94,
+      "category": [
+        "dublaj",
+        "dram",
+        "komedi",
+        "romantik",
+        "all"
+      ],
+      "director": "Kerstin Ahlrichs",
+      "senario": "Karen Duve",
+      "stars": [
+        "Peter Dinklage",
+        "Rosalie Thomass"
+      ],
+      "year": 2015,
+      "country": "Almanya",
+      "imdbRating": 5.9,
+      "siteRating": 0,
+      "quality": "1080",
+      "image": "https://img02.imgsinemalar.com/images/afis_buyuk/t/taksi-1660923671.jpg",
+      "fragman": "https://www.youtube.com/embed/pFWHqeHicTE",
+      "link": "https://www.youtube.com/embed/0NOU6tbX7W8",
+      "views": 47,
+      "comments": [],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png"
+    },
+    {
+      "id": 124126,
+      "name": "Cehennem Melekleri 3",
+      "orginalName": "The Expendables 3",
+      "description": "Barney (Stallone), Christmas (Statham) ve ekibi hayatlarının en zorlu mücadelesiyle karşı karşıyalar! Bir zamanlar Barney ile birlikte ekibin kurulmasında rol alan Conrad Stonebanks (Gibson), şimdilerde silah satıcısı olarak çalışmaktadır ve bu durum ekibin geri kalanını rahatsız eder. Bu nedenle Stonebanks ekibi dağıtmayı kafasına koymuştur. Barney ise karşı bir hamle olarak, yeni ve genç üyelerin de eklendiği ekibini yeniden toplar. Artık ekipmanları ve teknikleri de daha güçlü ve moderndir. Ancak karşılarına çıkacak her türlü kötülüğe tam olarak hazırlıklı mıdırlar?",
+      "time": 126,
+      "category": [
+        "dublaj",
+        "aksiyon",
+        "gerilim",
+        "macera",
+        "all"
+      ],
+      "director": "Patrick Hughes",
+      "senario": "Sylvester Stallone",
+      "stars": [
+        "Harrison Ford",
+        "Jason Statham",
+        "Mel Gibson",
+        "Sylvester Stallone"
+      ],
+      "year": 2014,
+      "country": "ABD",
+      "imdbRating": 6.1,
+      "siteRating": 0,
+      "quality": "1080",
+      "image": "https://img03.imgsinemalar.com/images/afis_buyuk/c/cehennem-melekleri-3-1660922394.jpg",
+      "fragman": "https://www.youtube.com/embed/4xD0junWlFc",
+      "link": "https://www.youtube.com/embed/uMhZn-uqO_Y",
+      "views": 64,
+      "comments": [
+        {
+          "id": "VHe4S9b4g_rbcM-hJHi2l",
+          "author": "benan",
+          "comment": "yorum deneme 123",
+          "date": "Wed Dec 21 2022 17:06:38 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/765.png"
+    },
+    {
+      "id": 341241,
+      "name": "Transformers: Canavarların Yükselişi",
+      "orginalName": "Transformers: Rise of the Beasts",
+      "description": "“Transformers: Canavarların Yükselişi”, izleyicileri Otobotlarla birlikte ‘90’larda dünyayı dolaşan maceraya çıkarıyor ve Dünya’da Otobotlarla Decepticon’lar arasında devam eden savaşta yepyeni bir Transformer türü olan Maximal’leri tanıtıyor.",
+      "category": [
+        "yakında",
+        "bilim kurgu",
+        "aksiyon",
+        "macera",
+        "fragman",
+        "all"
+      ],
+      "director": "Steven Caple Jr.",
+      "senario": "Joby Harold",
+      "quality": "1080",
+      "stars": [
+        "Anthony Ramos",
+        "Dominique Fishback",
+        "Ron Perlman"
+      ],
+      "year": 2023,
+      "country": "ABD",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/t/untitled-transformers-project-1669930595.jpg",
+      "fragman": "https://www.youtube.com/embed/WWWDskI46Js",
+      "views": 13,
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png",
+      "comments": [],
+      "link": ""
+    },
+    {
+      "id": 22112,
+      "name": "Kulübeye Tıklat",
+      "orginalName": "Knock at the Cabin",
+      "description": "Uzak bir kulübede tatil yapan genç bir aile, kıyameti önlemek için kendilerinden düşünülemez bir seçim yapmasını talep eden dört silahlı yabancı tarafından rehin alınır. Dış dünyaya sınırlı erişimi olan aile, her şey kaybolmadan önce neye inandıklarına karar vermelidir.",
+      "category": [
+        "yakında",
+        "gerilim",
+        "gizem",
+        "korku",
+        "fragman",
+        "all"
+      ],
+      "director": "M. Night Shyamalan",
+      "senario": "M. Night Shyamalan",
+      "stars": [
+        "Jonathan Groff",
+        "Ben Aldridge",
+        "Dave Bautista",
+        "Rupert Grint"
+      ],
+      "year": 2023,
+      "country": "ABD",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/k/knock-at-the-cabin-1663839184.jpg",
+      "fragman": "https://www.youtube.com/embed/0wiBHEACNHs",
+      "views": 3,
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png",
+      "quality": "1080",
+      "comments": [
+        {
+          "id": "9nVwGACWcBEJi3Xmumfkh",
+          "author": "benan",
+          "comment": "deneme 123 ",
+          "date": "Wed Dec 21 2022 17:06:53 GMT+0300 (GMT+03:00)"
+        },
+        {
+          "id": "ne6hEY0wF415lb55x3Sfq",
+          "author": "ahmetbenan",
+          "comment": "yorum deneme",
+          "date": "Sat Jan 07 2023 17:38:59 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "id": 123123,
+      "name": "Fabelmanlar",
+      "orginalName": " The Fabelmans",
+      "description": "İkinci Dünya Savaşı sonrası Arizona'da büyüyen Sammy Fabelman (Gabriel LaBelle) adında genç bir adam, aileyi sarsan bir sırrı keşfeder ve filmlerin gücünün gerçeği görmesine nasıl yardımcı olabileceğini keşfetmeye başlar. Filmde genç oyuncu  Gabriel LaBelle'e Michelle Williams ve Seth Rogen gibi isimler eşlik ediyor.",
+      "category": [
+        "yakında",
+        "dram",
+        "fragman"
+      ],
+      "director": "Steven Spielberg",
+      "senario": "Tony Kushner",
+      "stars": [
+        "Gabriel LaBelle",
+        "Michelle Williams",
+        "Seth Rogen",
+        "Paul Dano"
+      ],
+      "year": 2023,
+      "country": "ABD",
+      "image": "https://img05.imgsinemalar.com/images/afis_buyuk/t/steven-spielberg-biopic-1662667275.jpg",
+      "fragman": "https://www.youtube.com/embed/D1G2iLSzOe8",
+      "views": 6,
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png",
+      "quality": "1080",
+      "comments": [
+        {
+          "id": "IyGVYUCc285wTrEdL7s-5",
+          "author": "benan",
+          "comment": "123123",
+          "date": "Sun Dec 25 2022 12:47:44 GMT+0300 (GMT+03:00)"
+        }
+      ],
+      "link": ""
+    },
+    {
+      "id": 1231234,
+      "name": "Sevda Mecburi İstikamet",
+      "orginalName": "",
+      "description": "Film ünlü bir oyuncunun kızıyla olan yarım kalmış hikayesini tamamlamak için çıktığı yolculuğu neşeli ve sıcak bir üslupla ele alıyor.",
+      "category": [
+        "yakında",
+        "dram",
+        "yerli",
+        "fragman",
+        "all"
+      ],
+      "director": "Çağan Irmak",
+      "senario": "Çağan Irmak",
+      "stars": [
+        "Selçuk Yöntem",
+        "Selin Şekerci",
+        "Kubilay Aka",
+        "Günay Karacaoğlu"
+      ],
+      "year": 2023,
+      "country": "Türkiye",
+      "image": "https://img04.imgsinemalar.com/images/afis_buyuk/s/sevda-mecburi-istikamet-1671173986.jpg",
+      "fragman": "https://www.youtube.com/embed/MngsvTEG958",
+      "views": 5,
+      "flag": "https://sortitoutsi.b-cdn.net/uploads/flags/799.png",
+      "comments": [],
+      "quality": "1080",
+      "link": ""
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "benan",
+      "password": "benang",
+      "email": "ahmetbenanakkaya@gmail.com",
+      "admin": true,
+      "favorites": []
+    }
+  ]
+}
