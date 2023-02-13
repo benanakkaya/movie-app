@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# Movie-App (Redux)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+İlk **React.js** öğrenilerimle ve **Redux Toolkit**' öğrenilerimi pekiştirmek için yazdığım bir projeydi. Responsive için uğraşılmamıştır.
 
-## Available Scripts
+**Not:** Projede gerçek bir veritabanı kullanılmamıştır, **json-server** paketi kullanılarak fake bir api oluşturulmuş ve projede bu api kullanılmıştır.
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[https://movie-app-gamma-topaz.vercel.app/](https://movie-app-gamma-topaz.vercel.app/)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Projeye Ait Ekran Görüntüleri
+![1](https://lh3.googleusercontent.com/bavgmDStFpteyOlrXgoBjOs2b3Vn28zCURYR1upCrnVkVwuSNbTov3Zhj2k0PN50uofhtcVx3y2QzBwPi7ufRDhZufFdf3DkfoHHpcZ0vV1hdnSJu8muFgD8wtgKI70xwk0HboEYtU7pfBs4ghV4vVuFN5hIexbWy2tP4fVwzagppJmP78n7Q7wYfRs6OQ-icbdcdob-jzYxJZ1-9IkV_OWRJ78plZnbKq28XpVFV4Ymmd3CZBs2wZw4ymsXpH8Msd3g45w3xB085IVsdgnPi0wdYLpAzof3cYnj_E5J4-EaPmoQXMnijKabm2ORaHw6M22RIlGxZwPudyQwFpUk89rRbdr_uXCXSWIdzEO5ws6WK9izJ3DhVvMLzFsvSl-qOvTY4jsr9s16jmmfmxSWurv-njcaei2QWyHJ1yrxxmi96mbd3ZPG1gjR4ZX9Npt3A2ObW8UkZ3YtP9pKWO9JGXt9dPZRRQI61XZ3fDLU-h5xv3iIM4cz9JuetLn8-cMuW1dSeRp-UcKe4grT2SwhdUaNDuc4JODpag8SP9hB9lgTLYHqeRM-P0R070OxRRTEnLrl0E0f9DzlMb9MdznFvgWIJkmYWHO5XD__4_jwBKon56fzkaKal8DKS8XG8Ku0dOL8EUztSnqjqff4r294cdfiAfuAtrlhvhF-IWQHyAxnhFX87VzBXE9-2P_WszYqOoJ_eIzjHMoXlFvBjKiUli1KZOZZ9g7GD_rJiMcAeHlmnGHXKpOvE5UefJr2-bMus_42QM1utB14LLRG24wRP6L6hL8_lbbgNBBwwko0PI9OI7PgIwKfrss9INzck2bxCPnTqYqXJkIAlZEz5n_nY48X6T1xp5CsoWBD_8D5CPEuyh0F50pVpsHA5ZeNgb1g_DseqZTOiTBT44Rk8N5yD1in8amVU0O2gkrju97FnJcX=w448-h661-s-no?authuser=0)![2](https://lh3.googleusercontent.com/iyK3_dO-WTrkCmenr8CRlgcqa_fzv1TE84xsRw6PaN4P8i2S9CnUiL3mJjWLDgAUudY0mj9DjLC-6hpTwodK7NHVqpkrCru6zKacqy3IV42nFCu1rrstiJgCFxQtmsxN0XjL5-7ER6XqZNdd3Ld4kIwipxAbmihDuoviSp3C6u5_W9QnH2cMYfjhZcuYMHqa0UytD-yX-W-jFo2lKhAgUialww33fL4TOZoWT48HkjaqByFrhVsD6OP4tyr0NvUthXl0Qp_qnJp14ExoaY6PmtQuYn4Mgjw10iFsdKv9AtWnYG8Nn-ESnlFxFg9S9etNS6vPebs5t32Kfs9dECEBTJngOkSQ7ZiC150G_Ke-o9sUqBp2uwIT72i8hZq62px66EnKnI1Z07N-lrrJqL7o4GyieLflfL9Hcko2fMExwiFpZd1SQVrV2w5vVdR-OsZ0GFTluVkYVgSjU4UyUq29Z4WvTkZ8moMRhxN8U3Mho0eA-We4O8AV3CGHjFornU9YWOa8MMlCe9YZaReYdsGIzF_PjG4CedcBW5fpsqVlUfyPaIBhbqWzMPbXNNO6rhDinmpE-SMwFPP-wJBnRU4dV5NrJdXBxn54cafR-0ywH96nAwnYafeAIX3BX1MKnVHpJRFeeTbuSi0A3l5dYjPHAg9MzOEaJzREjaKS8EWbY_yLi3l6m0p9_i_-XbppI7rE2efbXjCDC8EW8LIirrc1rqwcpvmix7vkHP53rE8gYRdaifkHOh5dhO_UFcL_1IpIT4X8pn62kTZ45OEF7bOPIa-JUEsJ5jBVLvn1yuF3tQWPdO3zUt_IU7oPKH0_YNH9DFuBOT1XX4grn-qcllWVY2tRSY0jOv1x1JpBmOxIxrpoz4x3uWYiogWE5ILccwXeTlP1yvnRDJtJPRjvmZJOTjpaizi0UP7zaXu6fuDHImWo=w430-h661-s-no?authuser=0)
